@@ -15,7 +15,7 @@
             title: 'TESTNET Explorer'
         },
         wallet: {
-            url: 'https://lc.earths.ga',
+            url: 'https://cl.earths.ga',
             title: 'Wallet'
         }
     });
